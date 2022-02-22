@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Addresses">
+        <item>addresse1@courriel.com</item>
+        <item>addresse2@courriel.com</item>
+        <item>addresse3@courriel.com</item>
+        <item>addresse4@courriel.com</item>
+        <item>addresse5@courriel.com</item>
+        <item>test</item>
+    </string-array>
+    <string-array name="MotsDePasses">
+        <item>MotDePasse1</item>
+        <item>MotDePasse2</item>
+        <item>MotDePasse3</item>
+        <item>MotDePasse4</item>
+        <item>MotDePasse5</item>
+        <item>test</item>
+    </string-array>
+</resources>
