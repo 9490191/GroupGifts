@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Cadeau en commun</string>
-
-    <!-- TODO: Login Acivity -->
+    <!-- TODO  Implementation of the English version-->
+    <!-- Login Acivity -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="hint_sing_in_email">Email</string>
     <string name="hint_sing_in_password">Mot de passe</string>

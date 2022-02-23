@@ -1,5 +1,6 @@
 package edu.h22_4m6.group_gifts.ui.login;
 
+import android.annotation.SuppressLint;
 import android.os.Bundle;
 
 import androidx.fragment.app.Fragment;
@@ -10,7 +11,6 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.EditText;
-import android.widget.Toast;
 
 import edu.h22_4m6.group_gifts.R;
 
@@ -61,10 +61,12 @@ public class SignInFragment extends Fragment implements View.OnClickListener {
         return view;
     }
 
+    @SuppressLint("NonConstantResourceId")
     @Override
     public void onClick(View view) {
         switch (view.getId()) {
             case R.id.btn_sing_in:
+                // TODO Method implementation
                 String message = "Connexion";
                 Utilities.showToast(getContext(), message);
                 break;

@@ -16,6 +16,7 @@ class XMLUserDAO implements IUserDAO{
     @Override
     public List<User> fetchAllUsers() {
 
+        // TODO Methode implementation
         /*
         String[] user_email = getResources().getStringArray(R.array.Addresses);
         String[] user_password = getResources().getStringArray(R.array.MotsDePasses);
